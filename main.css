@@ -1,0 +1,11 @@
+.my-card-container{
+  width: 50%;
+   
+
+    margin: 20px;
+    display: grid;
+    
+   
+    grid-template-columns: 18rem 18rem 18rem;
+  
+}
